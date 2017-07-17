@@ -1,0 +1,9 @@
+pathToNomencFile=
+pathToCalCurveFile=
+normBy=TSP
+remLst=
+vAliquot=
+vNMRsample=
+concRef=
+concRefSC=
+pathOut=
